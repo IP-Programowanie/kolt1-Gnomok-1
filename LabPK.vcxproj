@@ -139,9 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="Kol1.h" />
     <ClInclude Include="Wybor.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Funkcji1.cpp" />
     <ClCompile Include="Kol1.cpp" />
     <ClCompile Include="Kol2.cpp" />
   </ItemGroup>
